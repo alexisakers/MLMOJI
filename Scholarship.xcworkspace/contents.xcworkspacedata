@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Playground/MLMOJI.playgroundbook">
+   </FileRef>
+   <FileRef
+      location = "group:Playground/PlaygroundStub/PlaygroundStub.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Data-Model/Utilities/SampleCollecting/SampleCollecting.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Data-Model/Utilities/ModelTesting/ModelTesting.xcodeproj">
+   </FileRef>
+</Workspace>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>Introducing MLMOJI</string>
+	<key>LiveViewEdgeToEdge</key>
+	<true/>
+	<key>LiveViewMode</key>
+	<string>VisibleByDefault</string>
+	<key>CodeCopySetup</key>
+	<dict>
+		<key>ReadyToCopyInstructions</key>
+		<string>Let&apos;s start this challenge! Import the code from the previous page to start.</string>
+		<key>NotReadyToCopyInstructions</key>
+		<string>Code 420: You need to complete the previous challenge before starting this one.</string>
+	</dict>
+	<key>PlaygroundLoggingMode</key>
+	<string>Off</string>
+</dict>
+</plist>

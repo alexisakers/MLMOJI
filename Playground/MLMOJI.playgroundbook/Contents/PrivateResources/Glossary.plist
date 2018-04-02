@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Terms</key>
+	<dict>
+		<key>classifier</key>
+		<dict>
+			<key>Title</key>
+			<string>classifier</string>
+			<key>Definition</key>
+			<string>A classifier is a type of neural network that identifies the sub-categories to which an item belongs to. It is trained using items whose category is already known. They are not limitated to images, and can also be used for text or audio processing.
+
+For example, it can be used to tag an e-mail as spam, or to tell if a picture of food is a hot dog or not.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>MLMOJI/Building a Data Set</string>
+				<key>Title</key>
+				<string>Building a Data Set</string>
+			</dict>
+		</dict>
+		<key>feature</key>
+		<dict>
+			<key>Title</key>
+			<string>feature</string>
+			<key>Definition</key>
+			<string>A feature (or pattern) is an individual property of an item being observed. When training a deep neural network, we are in fact training the model to learn the distinctive features of each prediction class.
+
+In image recognition, features can include edges, colors and shapes.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>MLMOJI/Building a Data Set</string>
+				<key>Title</key>
+				<string>Building a Data Set</string>
+			</dict>
+		</dict>
+		<key>dnn</key>
+		<dict>
+			<key>Title</key>
+			<string>deep neural network</string>
+			<key>Definition</key>
+			<string>A neural network is a set of mathematical operations organized as layers. The operations are applied to the input input inside “hidden“ layers. The last layer produces the output.
+
+A deep neural network is a neural network that contains multiple hidden layers. Therefore, it applies multiple transforms to the input before producing the output. It is used for complex problems, like image classification.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>MLMOJI/Introducing MLMOJI</string>
+				<key>Title</key>
+				<string>Introducing MLMOJI</string>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>
