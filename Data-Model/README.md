@@ -25,8 +25,8 @@ To build your own data set, you can use the `SampleCollection` iOS app. Once you
 
 Open a shell in the `Training`  folder.
 
-Run the `prepare.sh` script to download the dependencies and prepare the images. If you do not want to perform data augmentation (which requires high CPU resources), you can edit the `input/normalize` script to use the `input/training-data` folder instead of  `input/augmented`.
+Run the `prepare.sh` script to download the dependencies and prepare the images. If you do not want to perform data augmentation (which requires high CPU resources), you can edit the `input/normalize.sh` script to use the `input/training-data` folder instead of  `input/augmented`.
 
-Once the `input/normalized` folder is filled with the normalized images, you can run the `retrain.sh` script to trai create the Core ML model. This can take around half an hour, depending on your computer's capabilities.
+Once the `input/normalized` folder is filled with the normalized images, you can run the `retrain.sh` script to  create the Core ML model. This can take around half an hour, depending on your computer's capabilities.
 
 The  `EmojiSketches.coreml` model file in this directory will be updated when training has completed.
